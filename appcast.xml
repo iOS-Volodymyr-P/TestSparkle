@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://example.com/SparkleTest-2.0.zip" length="988486" type="application/octet-stream" sparkle:edSignature="Mb1u8GxwE0XjXuoX/D80g9iYwOFdBfpuf5nlA3WgSI+6ihY5Gi1XzRYY/xYrFxPsGyKhGSTizCXoRHJuXsAyAQ=="/>
+            <enclosure url="https://github.com/iOS-Volodymyr-P/TestSparkle/blob/main/SparkleTest-2.0.zip" length="988486" type="application/octet-stream" sparkle:edSignature="Mb1u8GxwE0XjXuoX/D80g9iYwOFdBfpuf5nlA3WgSI+6ihY5Gi1XzRYY/xYrFxPsGyKhGSTizCXoRHJuXsAyAQ=="/>
         </item>
     </channel>
 </rss>
