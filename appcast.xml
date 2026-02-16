@@ -5,7 +5,7 @@
         <item>
             <title>2.0</title>
             <pubDate>Mon, 16 Feb 2026 12:48:31 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/iOS-Volodymyr-P/TestSparkle/raw/main/SparkleTest-2.0.zip" length="988486" type="application/octet-stream" sparkle:edSignature="Mb1u8GxwE0XjXuoX/D80g9iYwOFdBfpuf5nlA3WgSI+6ihY5Gi1XzRYY/xYrFxPsGyKhGSTizCXoRHJuXsAyAQ=="/>
